@@ -55,7 +55,7 @@ All colors are stored as CSS variables in `:root` at the top of `styles.css`, so
 
 ### Shared on every page
 
-- **Header:** A teal contact panel with a curved bottom-right corner (location, email, phone), a round photo with a white border that overlaps the panel, and my name with my title underneath.
+- **Header:** A teal contact panel with a curved bottom-right corner (location, email, phone, LinkedIn), a round photo with a white border that overlaps the panel, and my name with my title underneath.
 - **Nav:** Dark teal bar with white links to Home, Resume, Projects, and my GitHub profile. The current page is highlighted in primary teal, and links turn primary teal on hover.
 - **Footer:** Dark teal background with centered white text, my email, and a "Back to top" link.
 
